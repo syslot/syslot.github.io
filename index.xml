@@ -6,7 +6,64 @@
     <description>Recent content on Syslot Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2016 16:33:24 +0800</lastBuildDate>
     <atom:link href="https://syslot.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second</title>
+      <link>https://syslot.github.io/post/blog/2016/08/06/second/</link>
+      <pubDate>Sat, 06 Aug 2016 16:33:24 +0800</pubDate>
+      
+      <guid>https://syslot.github.io/post/blog/2016/08/06/second/</guid>
+      <description>&lt;p&gt;Second Post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://syslot.github.io/post/blog/2016/08/06/first/</link>
+      <pubDate>Sat, 06 Aug 2016 16:31:39 +0800</pubDate>
+      
+      <guid>https://syslot.github.io/post/blog/2016/08/06/first/</guid>
+      <description>
+
+&lt;script type=&#34;text/javascript&#34;
+  src=&#34;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#34;&gt;
+  &lt;/script&gt;
+
+&lt;h1 id=&#34;first-content&#34;&gt;First Content&lt;/h1&gt;
+
+&lt;p&gt;this is &lt;em&gt;first&lt;/em&gt; test&lt;/p&gt;
+
+&lt;p&gt;这是第一期&lt;/p&gt;
+
+&lt;p&gt;$$x={-b\pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://syslot.github.io/post/media/IMG_0980.PNG&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Steve Francia&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://syslot.github.io/post/about/</link>
+      <pubDate>Sat, 06 Aug 2016 16:31:18 +0800</pubDate>
+      
+      <guid>https://syslot.github.io/post/about/</guid>
+      <description>&lt;p&gt;Some Content&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
