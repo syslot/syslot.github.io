@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Syslot Site</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:1313/post/post/</link>
     <description>Recent content in Posts on Syslot Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Aug 2016 16:33:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>second</title>
-      <link>http://localhost:1313/blog/2016/08/06/second/</link>
+      <link>http://localhost:1313/post/blog/2016/08/06/second/</link>
       <pubDate>Sat, 06 Aug 2016 16:33:24 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/2016/08/06/second/</guid>
+      <guid>http://localhost:1313/post/blog/2016/08/06/second/</guid>
       <description>&lt;p&gt;Second Post&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/blog/2016/08/06/first/</link>
+      <link>http://localhost:1313/post/blog/2016/08/06/first/</link>
       <pubDate>Sat, 06 Aug 2016 16:31:39 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/2016/08/06/first/</guid>
+      <guid>http://localhost:1313/post/blog/2016/08/06/first/</guid>
       <description>
 
 &lt;script type=&#34;text/javascript&#34;
@@ -42,7 +42,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/IMG_0980.PNG&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/post/media/IMG_0980.PNG&#34; /&gt;
     
     
     &lt;figcaption&gt;
